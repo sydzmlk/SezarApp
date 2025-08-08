@@ -1,0 +1,14 @@
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\bin\Debug\net9.0\SezarConsole.exe
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\bin\Debug\net9.0\SezarConsole.deps.json
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\bin\Debug\net9.0\SezarConsole.runtimeconfig.json
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\bin\Debug\net9.0\SezarConsole.dll
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\bin\Debug\net9.0\SezarConsole.pdb
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\SezarConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\SezarConsole.AssemblyInfoInputs.cache
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\SezarConsole.AssemblyInfo.cs
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\SezarConsole.csproj.CoreCompileInputs.cache
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\SezarConsole.dll
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\refint\SezarConsole.dll
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\SezarConsole.pdb
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\SezarConsole.genruntimeconfig.cache
+C:\Users\sydze\source\repos\SezarConsole\SezarConsole\obj\Debug\net9.0\ref\SezarConsole.dll

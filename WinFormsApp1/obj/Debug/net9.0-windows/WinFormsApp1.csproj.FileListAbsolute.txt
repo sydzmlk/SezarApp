@@ -1,0 +1,16 @@
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll
+C:\Users\sydze\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.nomatter.resources

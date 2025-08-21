@@ -26,7 +26,7 @@ Visual Studio
 
 Clone the repository:
 
-git clone https://github.com/sydzdmlk/SezarForms.git
+git clone https://github.com/sydzdmlk/SezarApp.git
 
 
 Open the project in Visual Studio
